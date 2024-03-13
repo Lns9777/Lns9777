@@ -21,7 +21,7 @@
 <a href="https://fb.com/https://www.facebook.com/laxmi.n.sahu.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/laxmi.n.sahu.35/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/laxmisahu719/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/laxmisahu719/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lnsexplorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lnsexplorer" height="30" width="40" /></a>
-<a href="https://lns977.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://lns977.github.io/Portfolio/" target="blank"><img align="center" src="<a href="https://www.flaticon.com/free-icons/portfolio" title="portfolio icons">Portfolio icons created by Eucalyp - Flaticon</a>" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
