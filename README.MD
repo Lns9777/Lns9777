@@ -53,17 +53,6 @@ I'm an **AI/ML developer at Pravaah Consulting (Bengaluru)** with ~1.5 years of 
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📏 llmeval
-A unified Python library to evaluate **LLM responses, RAG pipelines, agents and agentic RAG** in one place, written from scratch rather than wrapping existing eval tools.
-
-`Python` `LLM Evaluation` `RAG` `Agents`
-
-[**→ View repo**](https://github.com/Lns9777)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🎨 AI Portfolio Builder
 A SaaS that turns your documents into a polished portfolio via a multi-stage **LangGraph** pipeline:
@@ -71,7 +60,7 @@ A SaaS that turns your documents into a polished portfolio via a multi-stage **L
 
 `LangGraph` `FastAPI` `React` `Gemini` `PyMuPDF`
 
-[**→ View repo**](https://github.com/Lns9777)
+[**→ View repo**](https://github.com/LN-GROUP-Global/AI_Portfolio_Builder)
 
 </td>
 </tr>
