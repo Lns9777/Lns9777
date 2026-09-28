@@ -53,6 +53,7 @@ I'm an **AI/ML developer at Pravaah Consulting (Bengaluru)** with ~1.5 years of 
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
 ### 🎨 AI Portfolio Builder
 A SaaS that turns your documents into a polished portfolio via a multi-stage **LangGraph** pipeline:
@@ -63,8 +64,6 @@ A SaaS that turns your documents into a polished portfolio via a multi-stage **L
 [**→ View repo**](https://github.com/LN-GROUP-Global/AI_Portfolio_Builder)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📦 llmapi-tracker
@@ -72,9 +71,11 @@ A published Python package for tracking and monitoring **LLM API usage**, with a
 
 `Python` `FastAPI` `CLI` `PyPI`
 
-[**PyPI**](https://pypi.org/project/llmapi-tracker/) · [**GitHub**](https://github.com/Lns9777/API-Usage-Tracker)
+[**→ PyPI**](https://pypi.org/project/llmapi-tracker/) · [**→ View repo**](https://github.com/Lns9777/API-Usage-Tracker)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 AI Intake Assistant (Voice)
@@ -82,21 +83,19 @@ A multimodal healthcare intake app: **speech-to-text → LLM + RAG → SOAP note
 
 `STT` `LLM` `RAG` `TTS`
 
-[**→ View repo**](https://github.com/Lns9777)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Enterprise AI Developer Assistant
+### 🧑‍💻 Enterprise AI Assistant
 An **agentic RAG** assistant for developer workflows: retrieval, context construction, LLM reasoning and tool execution.
 
 `RAG` `Agents` `Tool Calling`
 
-[**→ View repo**](https://github.com/Lns9777)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📱 Cryptobook
@@ -104,7 +103,12 @@ A **Flutter** app published on the Google Play Store, with a backend handling em
 
 `Flutter` `Dart` `PHP` `Play Store`
 
-[**→ View repo**](https://github.com/Lns9777)
+[**→ Playstore**](https://play.google.com/store/apps/details?id=com.xetalabs.cryptobook&hl=en_IN)
+
+</td>
+<td width="50%" valign="top">
+
+
 
 </td>
 </tr>
@@ -134,8 +138,8 @@ A **Flutter** app published on the Google Play Store, with a backend handling em
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lns9777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lns9777&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lns9777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lns9777&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <img src="https://streak-stats.demolab.com/?user=Lns9777&theme=tokyonight&hide_border=true" />
 
