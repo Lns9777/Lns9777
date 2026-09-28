@@ -377,7 +377,7 @@ Continuous Improvement
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
 </a>
 
-<a href="https://lns977.github.io/Portfolio/">
+<a href="https://Lns9777.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6" />
 </a>
 
@@ -393,7 +393,7 @@ Continuous Improvement
 
 📧 **Email:** [laxminarayanasahu2@gmail.com](mailto:laxminarayanasahu2@gmail.com)
 💼 **LinkedIn:** https://linkedin.com/in/laxmi-narayana-sahu-05a657237/
-🌐 **Portfolio:** https://lns977.github.io/Portfolio/
+🌐 **Portfolio:** https://Lns9777.github.io/Portfolio/
 🐙 **GitHub:** https://github.com/Lns9777
 📊 **Kaggle:** https://www.kaggle.com/laxminarayanasahu
 
