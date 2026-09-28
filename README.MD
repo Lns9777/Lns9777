@@ -1,64 +1,78 @@
-<h1 align="center">Hi 👋, I'm Laxmi Narayan Sahu</h1>
+<!-- ===================== HERO ===================== -->
 
-<h3 align="center">
-AI Engineer • Generative AI Developer • Python Developer • Full-Stack Developer
-</h3>
+<div align="center">
 
-<p align="center">
+👋 Hi, I'm Laxmi Narayan Sahu
+
+🤖 AI Engineer · Generative AI Developer · Python Developer
+
+<p>
+  <b>Building intelligent products with LLMs, RAG, Agentic AI & modern software engineering.</b>
+</p>
+
+<p>
   <a href="https://github.com/Lns9777">
-    <img src="https://komarev.com/ghpvc/?username=Lns9777&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-Lns9777-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/Lns9777?tab=followers">
-    <img src="https://img.shields.io/github/followers/Lns9777?label=Followers&style=flat" alt="GitHub Followers" />
+  <a href="https://linkedin.com/in/laxmi-narayana-sahu-05a657237">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Lns9777?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?logo=github" alt="GitHub Repositories" />
+  <a href="https://lns977.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://pypi.org/project/llmapi-tracker/">
+    <img src="https://img.shields.io/badge/PyPI-llmapi--tracker-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
   </a>
 </p>
 
-👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=Lns9777&label=Profile%20Views&color=0e75b6&style=flat-square" />
 
-I'm a Computer Science Engineer focused on building practical software and AI-powered products.
+</div>
 
-My work combines Artificial Intelligence, Generative AI, Backend Engineering, and Full-Stack Development. I enjoy taking ideas from experimentation to working products — designing AI pipelines, integrating LLMs, building APIs, developing interfaces, working with databases, and deploying applications.
+🧠 Who Am I?
 
-My current focus is on:
+I'm a Computer Science Engineer who enjoys turning ideas into working software and AI products.
 
-🤖 Generative AI & LLM Applications
+My engineering journey has evolved from web development → Python → machine learning → deep learning → NLP → Generative AI → RAG → Agentic AI.
 
-🧠 Agentic AI & AI Agents
+Today, I focus on building systems where LLMs are connected to real data, tools, APIs and applications rather than simply creating chat interfaces.
 
-🔎 Retrieval-Augmented Generation (RAG)
+              ┌──────────────────────────────┐
+              │          AI PRODUCT          │
+              └──────────────┬───────────────┘
+                             │
+              ┌──────────────▼───────────────┐
+              │      LLM / Foundation Model  │
+              └──────────────┬───────────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          ▼                  ▼                  ▼
+       RAG / Data         AI Agents        Tool Calling
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │   Backend API   │
+                    │ FastAPI / Django│
+                    └────────┬────────┘
+                             ▼
+                    Web / Mobile Product
 
-🐍 Python & Backend Engineering
+🚀 What I Build
 
-⚡ FastAPI & Django
+<table>
+<tr>
+<td width="50%">
 
-🧩 LangChain & LangGraph
+🤖 Generative AI
 
-🎙️ Multimodal & Voice AI
+LLM Applications
 
-🗄️ Databases & Knowledge Graphs
-
-🐳 Docker & Deployment
-
-🌐 Full-Stack AI Applications
-
-Build → Experiment → Learn → Improve → Ship
-
-🧠 AI & Generative AI
-
-I've worked on AI applications involving:
-
-Large Language Models (LLMs)
-
-Generative AI
-
-Retrieval-Augmented Generation (RAG)
-
-Agentic AI
+RAG Systems
 
 AI Agents
+
+Agentic Workflows
 
 Prompt Engineering
 
@@ -66,57 +80,105 @@ Tool / Function Calling
 
 Multimodal AI
 
-Natural Language Processing
+</td>
+<td width="50%">
 
-Conversational AI
+⚙️ AI Engineering
 
-Computer Vision
-
-AI Pipelines
-
-Knowledge Graphs
-
-AI-powered automation
-
-🚀 Featured Projects
-
-🤖 AI Portfolio Builder
-
-An AI-powered portfolio generation platform built around a multi-stage LangGraph workflow.
-
-User Information
-       ↓
-   Content Agent
-       ↓
-   Design Agent
-       ↓
-  Critique Agent
-       ↓
- Refinement Agent
-       ↓
- Final Portfolio
-
-Technology Stack
-
-Python
-
-LangGraph
-
-LLMs
+Python Backend
 
 FastAPI
 
+Django
+
+AI Pipelines
+
+API Integration
+
+ETL
+
+Deployment
+
+Production-oriented systems
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🧠 Machine Learning
+
+Machine Learning
+
+Deep Learning
+
+NLP
+
+Computer Vision
+
+TensorFlow
+
+PyTorch
+
+OpenCV
+
+YOLOv8
+
+</td>
+<td>
+
+🌐 Full Stack
+
 React
+
+Next.js
+
+Tailwind CSS
 
 Flutter
 
-PyMuPDF
+PostgreSQL
 
-ETL Pipelines
+Firebase
 
-🧑‍💻 Enterprise AI Developer Assistant
+SQLite
 
-An AI-powered developer assistant using an Agentic RAG architecture.
+Docker
+
+</td>
+</tr>
+</table>
+
+🔥 Featured Projects
+
+1. 🎨 AI Portfolio Builder
+
+Multi-agent AI pipeline that transforms user information into personalized portfolios.
+
+Content → Design → Critique → Refinement → Final Portfolio
+
+🛠️ Built With
+
+Python LangGraph LLMs FastAPI React Flutter PyMuPDF
+
+💡 Highlights
+
+Multi-stage LangGraph workflow
+
+Document extraction using PyMuPDF
+
+AI-generated portfolio content
+
+Automated critique and refinement
+
+FastAPI backend
+
+Web + mobile architecture
+
+2. 🧑‍💻 Enterprise AI Developer Assistant
+
+Agentic RAG assistant designed for developer-oriented knowledge and workflows.
 
 User Query
     ↓
@@ -132,392 +194,296 @@ Tool / Agent Execution
     ↓
 Response
 
-Core Technologies
+🛠️ Built With
 
-Python
+Python RAG LangChain LangGraph LLMs Vector Search FastAPI
 
-LLMs
+💡 Focus
 
-RAG
+Agentic RAG
 
-Agentic AI
+Context retrieval
 
-LangChain
+LLM reasoning
 
-LangGraph
+Tool calling
 
-Vector Search
+Developer assistance
 
-Tool Calling
+Knowledge-based responses
 
-Backend APIs
+3. 🏥 AI Intake Assistant + Voice
 
-🏥 AI Intake Assistant with Audio
+Multimodal AI workflow combining voice, RAG and LLM reasoning.
 
-A multimodal AI application combining voice processing, RAG and LLM-based reasoning.
+🎙️ Speech
+    ↓
+📝 Speech-to-Text
+    ↓
+🔎 Retrieval + LLM
+    ↓
+📋 SOAP Generation
+    ↓
+🔊 Text-to-Speech
 
-Speech
-  ↓
-Speech-to-Text
-  ↓
-RAG + LLM
-  ↓
-SOAP Generation
-  ↓
-Text-to-Speech
+🛠️ Focus Areas
 
-Focus Areas
+Speech-to-Text LLMs RAG Multimodal AI SOAP Text-to-Speech
 
-Speech-to-Text
+4. 📦 llmapi-tracker
 
-Large Language Models
+Python library for tracking and monitoring LLM API usage.
 
-Retrieval-Augmented Generation
-
-Multimodal AI
-
-SOAP Note Generation
-
-Text-to-Speech
-
-Voice AI
-
-📦 llmapi-tracker
-
-A Python package designed to track and monitor LLM API usage.
+<p>
+  <a href="https://pypi.org/project/llmapi-tracker/">
+    <img src="https://img.shields.io/pypi/v/llmapi-tracker?style=flat-square&logo=pypi&label=PyPI" />
+  </a>
+  <a href="https://github.com/Lns9777/API-Usage-Tracker">
+    <img src="https://img.shields.io/github/stars/Lns9777/API-Usage-Tracker?style=flat-square&logo=github" />
+  </a>
+</p>
 
 Features
 
-LLM API usage tracking
+📊 LLM API usage tracking
 
-FastAPI backend
+⚡ FastAPI backend
 
-CLI support
+💻 CLI support
 
-Usage monitoring
+📦 Python packaging
 
-Python packaging
+🧪 Automated testing
 
-Automated testing
+🔍 Ruff code quality
 
-Ruff code quality checks
+🌐 Frontend integration
 
-Frontend integration
+→ View on GitHub
+→ View on PyPI
 
-Links
+🧪 Other Things I've Built
 
-📦 PyPI: https://pypi.org/project/llmapi-tracker/
+🚀 Project
 
-💻 GitHub: https://github.com/Lns9777/API-Usage-Tracker
-
-🔬 Other Projects
-
-Project
-
-Technologies
+🔧 Technologies
 
 🧳 Travel Recommendation System
 
-Django, Python, Machine Learning
+Django · Python · ML
 
 🧾 Billing Management System
 
-Python, Tkinter, SQLite
+Python · Tkinter · SQLite
 
 🚦 Traffic Sign Detection
 
-TensorFlow, CNN, OpenCV, Streamlit
+TensorFlow · CNN · OpenCV · Streamlit
 
 🩺 Health Assistance Chatbot
 
-Llama, NLP, RAG
+Llama · NLP · RAG
 
 🩻 X-Ray Image Analysis
 
-YOLOv8, Computer Vision
+YOLOv8 · Computer Vision
 
 🐕 PetGPT
 
-Llama, NLP, Conversational AI
+Llama · NLP · Conversational AI
 
 🍳 IngrediChef
 
-Python, AI, Recommendation System
+Python · AI · Recommendation
 
 🧑‍💻 Enterprise AI Assistant
 
-RAG, Agents, LLMs
-
-🎨 AI Portfolio Builder
-
-LangGraph, FastAPI, React, Flutter
+RAG · Agents · LLMs
 
 🛠️ Tech Stack
 
-💻 Programming Languages
+👨‍💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
 </p>
 
-🤖 AI / Machine Learning
+🤖 AI / ML
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-Machine Learning
-
-Deep Learning
-
-Natural Language Processing
-
-Computer Vision
-
-Generative AI
-
-Large Language Models
-
-RAG
-
-AI Agents
-
-Agentic AI
-
-Prompt Engineering
-
-🧩 Generative AI & LLM
-
-LangChain
-
-LangGraph
-
-Google Gemini
-
-Llama 2
-
-Llama 3
-
-RAG Pipelines
-
-Agentic Workflows
-
-Function / Tool Calling
-
-Multimodal AI
-
-LLM Application Development
-
-⚡ Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-8E75B2?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer%20Vision-007ACC?style=flat-square" />
 </p>
 
-FastAPI
+🧩 LLM & AI Frameworks
 
-Django
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" />
+</p>
 
-REST APIs
+⚡ Backend
 
-SQLAlchemy
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+</p>
 
-API Development
-
-Backend Architecture
-
-Authentication
-
-ETL Pipelines
+REST APIs SQLAlchemy ETL Authentication Backend Architecture
 
 🌐 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
 </p>
-
-React
-
-Next.js
-
-JavaScript
-
-Tailwind CSS
-
-Bootstrap
-
-Responsive Web Development
 
 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,neo4j" />
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,neo4j" />
 </p>
 
-PostgreSQL
+🐳 DevOps & Development Tools
 
-MySQL
-
-SQLite
-
-Firebase / Firestore
-
-Neo4j
-
-SQLAlchemy
-
-🐳 DevOps & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,vscode" />
 </p>
 
-Docker
+WSL Firebase Hosting CI/CD Playwright
 
-Git
+📈 Engineering Journey
 
-GitHub
+2022 ───────────── Web Development
+                     │
+2023 ───────────── Python + Machine Learning
+                     │
+2023 ───────────── Deep Learning
+                     │
+2024 ───────────── NLP + Computer Vision
+                     │
+2024 ───────────── Generative AI + LLMs
+                     │
+2025 ───────────── RAG + AI Agents
+                     │
+2026 ───────────── Production AI Applications
+                     │
+                     ▼
+              🚀 AI Engineering
 
-Linux
+🎯 Current Focus
 
-WSL
+<table>
+<tr>
+<td>🤖 Agentic AI</td>
+<td>🧠 Multi-Agent Systems</td>
+</tr>
+<tr>
+<td>🔎 Advanced RAG</td>
+<td>📊 LLM Evaluation</td>
+</tr>
+<tr>
+<td>⚙️ AI System Design</td>
+<td>🚀 Production AI</td>
+</tr>
+<tr>
+<td>🐳 MLOps & Deployment</td>
+<td>☁️ Cloud AI</td>
+</tr>
+</table>
 
-Firebase Hosting
+🧩 How I Think About AI Products
 
-CI/CD
+             PROBLEM
+                │
+                ▼
+              DATA
+                │
+                ▼
+          MODEL / LLM
+                │
+        ┌───────┴───────┐
+        ▼               ▼
+       RAG            AGENTS
+        │               │
+        └───────┬───────┘
+                ▼
+             TOOLS
+                │
+                ▼
+           BACKEND API
+                │
+                ▼
+        WEB / MOBILE APP
+                │
+                ▼
+           DEPLOYMENT
+                │
+                ▼
+        MONITOR & IMPROVE
 
-Playwright
+I enjoy working across the entire AI product lifecycle, from the initial problem to deployment and continuous improvement.
 
 📊 GitHub
 
 <p align="center">
 
 <a href="https://github.com/Lns9777">
-  <img src="https://img.shields.io/github/followers/Lns9777?style=for-the-badge&label=Followers" />
+<img src="https://img.shields.io/github/followers/Lns9777?style=for-the-badge&label=Followers&logo=github" />
 </a>
 
 <a href="https://github.com/Lns9777?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repositories-View-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/Lns9777?tab=stars">
-  <img src="https://img.shields.io/badge/Starred%20Projects-View-yellow?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Starred-Projects-yellow?style=for-the-badge&logo=github" />
 </a>
 
 </p>
 
-📈 Contribution Activity
+⭐ Explore my repositories to see the projects, experiments and tools I'm building.
 
-You can view my complete contribution history directly on my GitHub profile:
-
-👉 https://github.com/Lns9777
-
-I intentionally don't use third-party github-readme-stats.vercel.app cards here because external stats endpoints can become unavailable and result in broken Error Fetching Resource images.
-
-🧭 My Engineering Journey
-
-Web Development
-       ↓
-Python & Backend Development
-       ↓
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-NLP & Computer Vision
-       ↓
-Generative AI & LLMs
-       ↓
-RAG Systems
-       ↓
-Agentic AI
-       ↓
-Production AI Applications
-
-My goal is to move beyond simply using AI APIs and develop the ability to design and build complete, production-oriented AI systems.
-
-🎯 What I'm Currently Working On
-
-🤖 Advanced Agentic AI
-
-🧠 Multi-Agent Systems
-
-🔎 Advanced RAG architectures
-
-📊 LLM Evaluation
-
-⚙️ AI System Design
-
-🚀 Production AI Applications
-
-🐳 MLOps & Deployment
-
-☁️ Cloud AI Platforms
-
-🧩 Scalable Backend Architecture
-
-📚 Advanced Computer Science & DSA
-
-💡 My Approach
-
-I enjoy working across the complete lifecycle of an AI product:
-
-Problem
-   ↓
-Data
-   ↓
-Model / LLM
-   ↓
-RAG / Agents
-   ↓
-Backend API
-   ↓
-Frontend
-   ↓
-Deployment
-   ↓
-Monitoring
-   ↓
-Continuous Improvement
-
-📫 Connect With Me
+🌐 Find Me Online
 
 <p align="center">
 
-<a href="https://linkedin.com/in/laxmi-narayana-sahu-05a657237">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://lns977.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Website-0e75b6?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/Lns9777">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://linkedin.com/in/laxmi-narayana-sahu-05a657237">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
 </a>
 
 <a href="https://www.kaggle.com/laxminarayanasahu">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="https://lns977.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/📊%20Kaggle-Profile-20BEFF?style=for-the-badge" />
 </a>
 
 <a href="mailto:laxminarayanasahu2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge" />
 </a>
 
-</p>
-
-🌐 Portfolio
-
-<p align="center">
-  <a href="https://lns977.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0e75b6?style=for-the-badge" />
-  </a>
 </p>
 
 ⚡ Fun Fact
 
-I don't just want to use AI — I want to understand how to build it, integrate it, deploy it, and turn it into useful products. 🤖
+I don't just want to use AI. I want to understand it, build it, integrate it, deploy it — and turn it into something people can actually use. 🤖
 
-<p align="center">
-  <b>⭐ Explore my repositories and feel free to connect!</b>
-</p>
+<div align="center">
+
+💙 Thanks for visiting my profile!
+
+Build. Learn. Experiment. Ship. Repeat.
+
+⭐ If you find something interesting, consider starring the repository!
+
+</div>
